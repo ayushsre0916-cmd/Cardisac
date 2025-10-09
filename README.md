@@ -9,9 +9,9 @@ The goal is to summon powerful beings, cast destructive or protective spells, an
 The game encourages both luck and strategy, making every match unpredictable and exciting. With rich artwork and immersive lore, the cards bring the fantasy universe to life, allowing players to experience epic battles in a portable form. Easy to learn but challenging to master, this card game offers endless replay value and thrilling duels for all fantasy lovers. 
 
 Source-
-Used Visual Studio took help from AI tools(perplexity, Deepseek for debugging). Inspired game from Inscryption.
+Used Visual Studio (used Deepseek for debugging). Inspired game from Inscryption.
 
 Roles-
 Hardik Rajotiya - Coding
-Ayush saini- Coding
+Ayush Saini- Coding
 Shaurya Pratap Singh- Animation
