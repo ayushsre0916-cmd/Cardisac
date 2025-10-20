@@ -1,22 +1,66 @@
-Project Name- Cardisac
+# 🃏 Cardisac
 
-**Description-**
-A strategic fantasy card game where players summon heroes, cast powerful spells, and unleash mythical creatures to dominate the battlefield. With immersive artwork, unique abilities, and endless deck-building possibilities, every duel offers a mix of skill, luck, and creativity. Easy to learn, challenging to master, thrilling to play.
+**Cardisac** is a **strategic fantasy card game** inspired by [Inscryption](https://store.steampowered.com/app/1092790/INSCRYPTION/), where players summon heroes, cast powerful spells, and unleash mythical creatures to dominate the battlefield.  
+With immersive artwork, unique abilities, and deck-building possibilities, every duel blends **skill, luck, and strategy**.  
 
+> ⚠️ **Note:** This is a fan-inspired project and not affiliated with the creators of Inscryption.
 
-**Summary**-
-In this fantasy card game, players step into a mystical world filled with magic, legendary creatures, and ancient powers. Each player builds a deck of unique cards representing heroes, spells, and artifacts, using them strategically to outsmart opponents.
-The goal is to summon powerful beings, cast destructive or protective spells, and control the battlefield through skillful planning. Every card has its own strengths and weaknesses, requiring careful thinking and creative combinations to achieve victory. Players can choose different playstyles—whether it’s aggressive attacks, defensive tactics, or clever resource management.
-The game encourages both luck and strategy, making every match unpredictable and exciting. With rich artwork and immersive lore, the cards bring the fantasy universe to life, allowing players to experience epic battles in a portable form. Easy to learn but challenging to master, this card game offers endless replay value and thrilling duels for all fantasy lovers. 
+---
 
-<<<<<<< HEAD
-**Source-
-**Used Visual Studio took help from AI tools(perplexity, Deepseek for debugging). Inspired game from Inscryption.
-=======
-Source-
-Used Visual Studio (used Deepseek for debugging). Inspired game from Inscryption.
->>>>>>> d8d3ad2808f683dd7e1f0d27c75ad98153d29b23
+## 🌟 Summary
 
-**Roles**-
-Hardik Rajotiya - Coding
-Shaurya Pratap Singh- Animation
+Players step into a mystical world filled with magic, legendary creatures, and ancient powers. Each player builds a deck of cards representing **heroes, spells, and artifacts**, using them strategically to outsmart opponents.  
+
+The goal is to **summon powerful beings**, cast spells, and control the battlefield. Every card has its own strengths and weaknesses, requiring **strategic thinking and creative combinations**.  
+
+Playstyles include:
+- Aggressive attacks  
+- Defensive tactics  
+- Resource management  
+
+The game emphasizes both **luck and strategy**, making every match unpredictable and exciting. Rich artwork and lore bring the fantasy universe to life.
+
+**Key Highlights:**
+- Easy to learn, hard to master  
+- Endless replay value  
+- Thrilling duels for fantasy lovers  
+
+---
+
+## 🛠️ Source & Tools
+
+- Developed using **Visual Studio**  s
+- Inspired by **Inscryption**
+
+---
+
+## 👥 Roles
+
+| Team Member           | Role          |
+|-----------------------|---------------|
+| Hardik Rajotiya       | Coding        |
+| Ayush Saini           | Coding        |
+| Shaurya Pratap Singh  | Animation     |
+
+---
+
+## 🎨 Features (Optional)
+
+- Unique heroes and mythical creatures  
+- Spell and artifact cards with special abilities  
+- Strategic deck-building and battlefield control  
+- Immersive fantasy artwork and lore  
+
+---
+
+## 🚀 Roadmap
+
+- Multiplayer support  
+- AI opponents for solo play  
+- Card balancing and expansion packs  
+- Animation enhancements and visual effects  
+- Mobile or web version development  
+
+---
+
+> Experience **Cardisac**: a fan-inspired homage to Inscryption, where strategy, magic, and fantasy collide!
